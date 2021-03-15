@@ -1,4 +1,4 @@
-# API de valores de valores de Preço de Liquidação das Diferenças (PLD) e outras variáveis do setor elétrico
+# API de valores do Preço de Liquidação das Diferenças (PLD) e outras variáveis do setor elétrico
 
 O PLD é a referência oficial para valorar a energia restante que é liquidada na CCEE. O valor do PLD influencia nos contratos do mercado livre de energia e pode ser usado para minimizar custos. Este projeto independente tem o objetivo de manter uma API operacional com dados oficiais do PLD, previsão a curto, médio e longo prazo da variáveil, dados oficiais e previsão de Energia Natural Afluente, dados meteorológicos e hidrológicos e previsão de tempo e clima. Em outras palavras, uma API que tenta unir a maior quantidade possível de dados relevantes para o setor elétrico brasileiro. 
 
