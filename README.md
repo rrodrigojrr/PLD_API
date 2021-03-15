@@ -10,4 +10,9 @@ Este projeto está em estágio inicial de desenvolvimento. Porém, muito em brev
 - End-points com filtros de consulta por intervalo de data, intervalo de valor e submercado;
 - Banco de dados com dados históricos de PLD horário (PLD sombra e oficial). 
 
+### Descriçãp técnica:
+
+A API foi completamente desenvolvida em Python utilizando o micro-framework Flask. Os dados são armazenados no banco de dados PostgresSQL. A API é mantida operacional rodando num servidor do Google Cloud. 
+
+## Contato
 Para saber mais, entre em contato pelo e-mail: rrodrigo.junior@outlook.com
